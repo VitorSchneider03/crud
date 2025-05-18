@@ -19,4 +19,10 @@ const DUMMY_USERS = {
     email: 'ana@anagmail.com',
     avatarUrl: 'https://cdn.pixabay.com/photo/2023/01/23/23/57/ai-generated-7739914_960_720.jpg',
   ),
+  '4': const User(
+    id: '4',
+    name: 'Pedro',
+    email: 'pedro@pedrogmail.com',
+    avatarUrl: '',
+  ),
 }; 
